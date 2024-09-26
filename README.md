@@ -1,6 +1,5 @@
 # LBL Macro
 
-## What It Is
 
 **LBL Macro** is a tool that automates the typing of HTML, CSS, and JavaScript code snippets one character at a time. This creates engaging short videos that visually showcase the coding process.
 
