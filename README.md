@@ -1,7 +1,3 @@
-Here’s the revised README with the new name "LBL Macro" (Letter By Letter Macro) and the updated details:
-
----
-
 # LBL Macro: Letter By Letter Macro
 
 ## Overview
