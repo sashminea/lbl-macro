@@ -1,7 +1,3 @@
-Here’s a simplified README file for your LBL Macro project:
-
----
-
 # LBL Macro
 
 ## What It Is
@@ -71,7 +67,3 @@ Feel free to fork and contribute to the project!
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
---- 
-
-This version keeps the essential details while being concise and easy to understand!
